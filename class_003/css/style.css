@@ -1,0 +1,177 @@
+.zero {
+    width: 1000px;
+    height: 700px;
+    background-color: aqua;
+}
+
+.one {
+    width: 1000px;
+    height: 160px;
+    background: red;
+}
+
+.six {
+    width: 200px;
+    height: 160px;
+    background: tomato;
+    float: left;
+}
+
+.seven {
+    width: 200px;
+    height: 160px;
+    background: mediumseagreen;
+    float: left;
+}
+
+.eight {
+    width: 200px;
+    height: 160px;
+    background: lightgray;
+    float: left;
+}
+
+.nine {
+    width: 200px;
+    height: 160px;
+    background: dodgerblue;
+    float: left;
+}
+
+.ten {
+    width: 200px;
+    height: 160px;
+    background: #015a50;
+    float: left;
+}
+
+.two {
+    width: 1000px;
+    height: 160px;
+    background: blue;
+}
+
+.eleven {
+    width: 500px;
+    height: 160px;
+    background: chartreuse;
+    float: left;
+}
+
+.twelve {
+    width: 500px;
+    height: 160px;
+    background: magenta;
+    float: left;
+}
+
+.thirteen {
+    width: 500px;
+    height: 80px;
+    background: black;
+}
+
+.fourteen {
+    width: 500px;
+    height: 80px;
+    background: linen;
+}
+
+.fifteen {
+    width: 250px;
+    height: 80px;
+    background: #be3807;
+    float: left;
+}
+
+.sixteen {
+    width: 250px;
+    height: 80px;
+    background: #7a07ce;
+    float: left;
+}
+
+.three {
+    width: 1000px;
+    height: 160px;
+    background: yellow;
+}
+
+.seventeen {
+    width: 333px;
+    height: 160px;
+    background: #c68a11;
+    float: left;
+}
+
+.eightteen {
+    width: 334px;
+    height: 160px;
+    background: #618a9f;
+    float: left;
+}
+
+.twenty {
+    width: 334px;
+    height: 53px;
+    background: #243618;
+}
+
+.twenty_one {
+    width: 334px;
+    height: 54px;
+    background: #81470c;
+}
+
+.twenty_two {
+    width: 334px;
+    height: 53px;
+    background: #0c335a;
+}
+
+.nineteen {
+    width: 333px;
+    height: 160px;
+    background: #458822;
+    float: left;
+}
+
+.four {
+    width: 1000px;
+    height: 160px;
+    background: green;
+}
+
+.five {
+    width: 1000px;
+    height: 160px;
+    background: purple;
+}
+
+.twenty_three {
+    width: 250px;
+    height: 160px;
+    background: gray;
+    float: left;
+}
+
+.twenty_four {
+    width: 250px;
+    height: 160px;
+    background: violet;
+    float: left;
+}
+
+.twenty_five {
+    width: 250px;
+    height: 160px;
+    background: #ba4507;
+    float: left;
+}
+
+.twenty_six {
+    width: 250px;
+    height: 160px;
+    background: purple;
+    float: left;
+}

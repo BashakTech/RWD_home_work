@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+.clr {
+    clear: both;
+}
+
+/*  header part start   */
+header {
+    background: #0f2f44;
+    color: white;
+    padding: 10px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+header .header_left_text {
+    width: 50%;
+    float: left;
+}
+
+header .header_right_text {
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+/*  header part end   */
+
+
+/*  navbar part start */
+
+nav .logo {
+    width: 15%;
+    float: left;
+    margin-top: 25px;
+}
+
+nav .nav_item {
+    width: 75%;
+    float: left;
+}
+
+nav .nav_item ul {
+    text-align: center;
+}
+
+nav .nav_item ul li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+nav .nav_item ul li a {
+    display: inline-block;
+    color: black;
+    background: transparent;
+    padding: 30px 10px;
+    transition: .4s;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+nav .nav_item ul li a:hover {
+    background: #fff9e6;
+    color: #ffc712;
+}
+
+nav .icon {
+    width: 10%;
+    float: left;
+    margin-top: 25px;
+}
+
+nav .icon i {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #999999;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    color: #999999;
+    margin-right: 20px;
+    transition: .4s;
+    cursor: pointer;
+}
+
+nav .icon i:hover {
+    background: #0f2f44;
+    border-color: #0f2f44;
+    color: #ffc712;
+}
+
+/*  navbar part end   */
+
+/*  banner part start */
+
+#banner_part {
+    background: url(../images/banner.png) no-repeat center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+#banner_part h3 {
+    color: #0f2f44;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight:400; 
+}
+
+#banner_part h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 80px;
+    font-weight: 400;
+    color: #0f2f44;
+    text-transform: uppercase;
+    margin-top: -32px;
+}
+
+#banner_part h5 {
+    color: #aab0d8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 15px;
+
+}
+
+#banner_part p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    width: 514px;
+/*    margin-top: 20px;*/
+/*    margin-bottom: 20px;*/
+    margin: 20px 0;
+}
+
+#banner_part a {
+    display: inline-block;
+    background: #8484bf;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid #8484bf;
+    transition: .4s;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#banner_part a:hover {
+    background: white;
+    color: #8484bf;
+}
+
+#banner_part i {
+    width: 50px;
+    height: 50px;
+    background: white;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+    color: #8484bf;
+    transition: .4s;
+}
+
+#banner_part i:hover {
+    background: #8484bf;
+    color: white;
+}
+/*  banner part end   */

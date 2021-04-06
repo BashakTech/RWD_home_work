@@ -1,0 +1,53 @@
+.master {
+    width: 800px;
+    height: 600px;
+    background: #91e691;
+}
+
+.one {
+    width: 800px;
+    height: 150px;
+}
+
+.two {
+    width: 800px;
+    height: 150px;
+}
+
+.five {
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.six {
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.three {
+    width: 800px;
+    height: 150px;
+}
+
+.seven {
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.eight {
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.four {
+    width: 800px;
+    height: 150px;
+}
+
+.master {
+    text-align: center;
+}
